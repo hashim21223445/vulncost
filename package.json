@@ -146,7 +146,7 @@
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
     "semantic-release": "^17.0.7",
-    "webpack": "^4.41.6",
+    "webpack": "^5.97.1",
     "webpack-cli": "^3.3.11"
   },
   "galleryBanner": {
